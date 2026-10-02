@@ -1,4 +1,4 @@
 ---
 title: Welcome to the garden
 ---
-This is the home page. Hello!
+This is the home page. Hello World!
