@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: phocks.github.io/garden
+  baseUrl: garden.byrd.ws
   ignorePatterns:
     - private
     - templates
