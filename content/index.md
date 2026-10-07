@@ -1,7 +1,7 @@
 ---
 title: A digital spell book
+tags: [web, garden, spells]
 ---
-
 A collection of words.
 A multitude of marvels.
 What started out as a garden 
@@ -12,6 +12,6 @@ words, pieces, gathered.
 No time for unending growth.
 The time for spells is here.
 
----
+***
 
 TL:DR I needed a space online to put random shit. This is it. Enjoy!
