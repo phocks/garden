@@ -493,3 +493,8 @@ footer {
     font-size: 2rem;
   }
 }
+
+/* --- Extra --- */
+a.internal.internal-link.tag-link:hover {
+	color: var(--tertiary);
+}
