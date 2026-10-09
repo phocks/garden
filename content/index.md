@@ -1,7 +1,7 @@
 ---
 title: A digital spell book
-tags: [web, garden, spells]
 ---
+
 A collection of words.  
 A multitude of marvels.  
 What started out as a garden.  
