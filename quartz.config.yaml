@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Fraunces
+      # title: Fraunces
       header: Fraunces
       body: Newsreader
       code: JetBrains Mono
@@ -224,7 +224,7 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
     layout:
-      position: footer
+      position: afterBody
       priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: false
