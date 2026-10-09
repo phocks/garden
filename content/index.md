@@ -1,16 +1,16 @@
 ---
-title: A digital spell book
+title: Here be monsters
 ---
 
 A collection of words.  
 A multitude of marvels.  
-What started out as a garden.  
-has mutated and evolved.  
+What shoots outpouring our garden  
+mutate and evolve.  
 Past time for tending.  
-I'm collecting. Letters,  
+We are collecting. Letters,  
 words, pieces, gathered.  
-No time for unending growth.  
-The time for spells is here.  
+No time for the great unending.  
+The time for spells arrives.  
 
 ***
 
