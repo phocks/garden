@@ -4,7 +4,7 @@ tags: [web, garden, spells]
 ---
 A collection of words.  
 A multitude of marvels.  
-What started out as a garden. 
+What started out as a garden.  
 has mutated and evolved.  
 Past time for tending.  
 I'm collecting. Letters,  
